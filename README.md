@@ -11,9 +11,9 @@ to perform binary classification for wine quality using ML Algorithm.
   * UCI machine learning repository wine data ( https://archive.ics.uci.edu/ml/datasets/wine+quality/ winequality-red.csv )
       
 2. Documents
-  * [Final Report](https://github.com/htmtty123/Predicting-Employee-Attrition/blob/main/IBM%20Attrition%20Report%20%20-%20Faymin%20Cleaned%20Up.pdf)
+  * [Final Report](https://github.com/htmtty123/Predicting-Wine-Quality/blob/main/Predicting%20Red%20Wine%20Quality%20Report%20-%20latest.pdf)
   This report contains a detailed account of the data wrangling, EDA and modeling performed for this project.
-  * [Presentation](https://github.com/htmtty123/Predicting-Employee-Attrition/blob/main/Capstone%202%20Final%20presentation.pdf)
+  * [Presentation](https://github.com/htmtty123/Predicting-Wine-Quality/blob/main/presentation_slides_FC-latest.pptx)
   This presentation summarizes the data wrangling, EDA, modeling and conclusions for this project. 
 3. Notebooks
   * [Data Wrangling](https://github.com/htmtty123/Predicting-Wine-Quality/blob/main/red%20wine%20-EDA.ipynb)
