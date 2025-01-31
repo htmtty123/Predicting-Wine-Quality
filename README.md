@@ -13,7 +13,7 @@ to perform binary classification for wine quality using ML Algorithm.
 2. Documents
   * [Final Report](https://github.com/htmtty123/Predicting-Wine-Quality/blob/main/Predicting%20Red%20Wine%20Quality%20Report%20-%20latest.pdf)
   This report contains a detailed account of the data wrangling, EDA and modeling performed for this project.
-  * [Presentation](https://github.com/htmtty123/Predicting-Wine-Quality/blob/main/presentation_slides_FC-latest.pptx)
+  * [Presentation](https://github.com/htmtty123/Predicting-Wine-Quality/blob/main/Predicting%20Wine%20Quality%20presentation_slides.pdf)
   This presentation summarizes the data wrangling, EDA, modeling and conclusions for this project. 
 3. Notebooks
   * [Data Wrangling](https://github.com/htmtty123/Predicting-Wine-Quality/blob/main/red%20wine%20-EDA.ipynb)
